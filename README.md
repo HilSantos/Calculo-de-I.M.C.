@@ -1,5 +1,7 @@
 # I.M.C.
-
+Faça um programa que peça ao usuario seu peso (em kg), altura (em metros), e que calcule o Indice de Massa Corporal (IMC). Exiba o valor do IMC e uma mensagem, indicando a classificação do IMC:
+Abaixo de 18.5: "Abaixo do peso"; Entre 18.5 e 24.9: "Peso Normal"; Entre 25 e 29.9: "Sobrepeso", e acima de 30: "Obesidade".
+______________________________________________________________________________________________________________________________________________________________________________________________________
 using System;
 using System.Collections.Generic;
 using System.Linq;
